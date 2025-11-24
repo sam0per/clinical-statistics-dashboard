@@ -9,15 +9,15 @@
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Schema Architecture](#schema-architecture)
-3. [Table Specifications](#table-specifications)
-4. [Data Flow and Population](#data-flow-and-population)
-5. [Calculation Logic](#calculation-logic)
-6. [Quality Assurance](#quality-assurance)
-7. [Usage Examples](#usage-examples)
-8. [Validation Procedures](#validation-procedures)
-9. [Maintenance and Troubleshooting](#maintenance-and-troubleshooting)
+1. [Overview](#1-overview)
+2. [Schema Architecture](#2-schema-architecture)
+3. [Table Specifications](#3-table-specifications)
+4. [Data Flow and Population](#4-data-flow-and-population)
+5. [Calculation Logic](#5-calculation-logic)
+6. [Quality Assurance](#6-quality-assurance)
+7. [Usage Examples](#7-usage-examples)
+8. [Validation Procedures](#8-validation-procedures)
+9. [Maintenance and Troubleshooting](#9-maintenance-and-troubleshooting)
 
 ---
 
